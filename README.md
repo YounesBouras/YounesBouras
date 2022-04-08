@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YounesBouras
+- 👀 I’m interested in learning and improving my analysing skills
+- 🌱 I’m currently learning python, sql, excel & Tableau
+- 📫 How to reach me : bourasyounes@hotmail.com
